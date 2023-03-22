@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: About Cindy
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**Cindy Catherine Orozco Bohorquez** is a mathematician interested in data science, artificial intelligence, product management and teaching. Cindy has a PhD in Computational and Mathematical Engineering (ICME) from Stanford University - USA -, a master in Applied Mathematics from King Abdullah University of Science and Technology - Saudi Arabia -, and bachelors degrees in Mathematics and Civil Engineering from Universidad de Los Andes - Colombia -.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Cindy is a ML solution engineer at Cerebras systems, where she develops research projects with unique Hardware and Software for AI 
