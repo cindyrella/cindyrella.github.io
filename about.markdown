@@ -9,9 +9,13 @@ permalink:
 <img height="100px" class="center-block" src="images/Cindy_pic.JPG">
 </td>
 <td>
-**Cindy Catherine Orozco Bohorquez**
+<b>Cindy Catherine Orozco Bohorquez</b>
 
-*email*: cindycorozco.at.gmail.dot.com
+
+<i>email</i>: cindycorozco.at.gmail.dot.com
+
+<i>linkedin</i>: <a href="https://www.linkedin.com/in/cindycorozco">cindycorozco</a>
+
 From Bogotá, Colombia. Living in the Bay Area
 </td>
 </tr>
