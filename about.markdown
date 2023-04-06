@@ -1,9 +1,118 @@
 ---
 layout: page
-title: About Cindy
+title: About Cindy C Orozco Bohorquez
 permalink: /about/
 ---
 
-**Cindy Catherine Orozco Bohorquez** is a mathematician interested in data science, artificial intelligence, product management and teaching. Cindy has a PhD in Computational and Mathematical Engineering (ICME) from Stanford University - USA -, a master in Applied Mathematics from King Abdullah University of Science and Technology - Saudi Arabia -, and bachelors degrees in Mathematics and Civil Engineering from Universidad de Los Andes - Colombia -.
+ ![Cindy_pic](images/Cindy_pic.png)
 
-Cindy is a ML solution engineer at Cerebras systems, where she develops research projects with unique Hardware and Software for AI 
+I am a mathematician and engineer passionate about making complex topics accessible to a broad audience. 
+I have worked in numerical analysis, data science, numerical simulation, parallel computing, and machine 
+learning, researching and teaching in academia and industry. My passion comes from my journey from not 
+knowing what a mathematician does to becoming a Ph.D. in computational and mathematical engineering, 
+as well as working in highly technical environments where fundamental challenges have been solved with 
+clear communication between all the stakeholders. Here is my journey:
+
+## (2021 - ) ML solutions engineer at [Cerebras Systems](https://www.cerebras.net)
+
+Cerebras is a AI-specialized Hardware and Software startup that is revolutionazing the Deep Learning
+landscape by making training large language models extremely easy with unique solutions. At Cerebras, I:
+
+* Mentor and manage the ml solutions team. This team has grown from two to five members and supports more than 15 active
+  enterprise customers in Energy, Pharmaceutics, Financial services and National Laboratories among others,
+
+* Design and implementation of joint research projects in NLP (Transformers, BERT, GPT) some examples are:
+
+   * [GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics](https://www.biorxiv.org/content/10.1101/2022.10.10.511571v2).
+     In collaboration with [Argonne National Labs](https://www.alcf.anl.gov/) 
+     This work recieved the [Special Gordon Bell Prize 2022 at SC22](https://www.cerebras.net/blog/genomics-in-unparalleled-resolution-cerebras-wafer-scale-cluster-trains-large-language-models-on-the-full-covid-genome-sequence)
+
+   * [A Comprehensive Evaluation of Novel AI Accelerators for Deep Learning Workloads](https://doi.org/10.1109/PMBS56514.2022.00007).
+     In collaboration with [Argonne National Labs](https://www.alcf.anl.gov/)
+ 
+   * [Accelerating NLP Model Training and Enabling Higher Accuracy for Financial Services Applications](https://f.hubspotusercontent30.net/hubfs/8968533/Cerebras-Financial-Institution-NLP-case-study.pdf)
+
+* Work with multiple stakeholders on engineering, customer, and executives, driving customer feedback and quickly adapting to a changing environment,
+ 
+* Develop user journey, training materials, [multiple-day workshops](https://events.cels.anl.gov/event/333/), 
+  and reformat documentation to include new product offerings and user-centric perspective.
+
+## (2018 - 2022) Volunteer at [Women in Data Science Conference (WIDS)](https://www.widsconference.org/)
+
+WIDS is a worldwide movement that started in 2015 at ICME, Stanford around showcasing the work of incredible women in data science. 
+At WIDS, I:
+
+* Evolved from an attendant in 2015, to a worldwide speaker in 2021 ([here](https://www.widsconference.org/blog_archive/cindy-orozco-bohorquez-from-bogota-to-stanford-phd-to-wids-worldwide-speaker) is more on that story), getting to know an amazing community in the Bay Area and
+  Latin America. Here are some of my talks:
+
+    * [Keynote: What does it mean to have a robust algorithm? Looking through the lenses of point-set registration.](https://www.youtube.com/watch?v=CLXDxNSxzT0). WIDS Worldwide 2021 
+
+    * [¿Qué siginifica tener un algoritmo robusto?. Notas a pie de página](https://www.youtube.com/live/60utkHJ3b0A?feature=share&t=954) WIDS Colombia 2021
+
+    * Combinando la Ciencia de Datos y la modelación numérica para entender el Alzheimer. WIDS Guayaquil 2020
+
+    * [¿La inteligencia artificial significa el fin de las matemáticas tradicionales? ... No realmente] (https://www.youtube.com/watch?v=f4XwMmxjfz8) WIDS Medellin 2020
+
+    * Lunch Breakout: Introduction to Deep Learning. WiDS Stanford 2020  
+
+* Thought an introductory [parallel computing workshop](https://www.widsconference.org/cindyorozcobohorquezworkshopinstructor.html)
+
+* Hosted a Spanish-speaking version of the WIDS podcast, featuring [Jessica Bohórquez](https://www.widsconference.org/jessica_bohorquez.html), [Lesly Zerna](https://www.widsconference.org/lesly-zerna.html), and [my own episode with the incredible Margot Gerritsen](https://www.widsconference.org/cindy-orozco.html)
+
+
+## (2015 - 2021) Ph.D. in Computational and Mathematical Engineering [ICME, Stanford University](https://icme.stanford.edu)
+
+The Institute for Computational and Mathematical Engineering at Stanford is an interdisciplinary institute in the hear of the engineering school, 
+being the hub of applied mathematics, high performance computing and data science. At Stanford, I:
+
+  * Worked with [Lexing Ying](https://web.stanford.edu/~lexing/) and [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo/)
+    on [large-noise robust optimization on manifolds](https://arxiv.org/abs/2004.08772), tensor factorization using tensor
+    networks, and [physics-based neural networks for inverse problems based on wavelets](https://www.sciencedirect.com/science/article/pii/S0021999119300762),
+    (Here is [my Ph.D. dissertation](https://purl.stanford.edu/qn148ph7611)
+
+  * Thought over 200 students machine learning, parallel computing, and numerical analysis,
+
+  * Participated as co-founder, officer and mentor on engineering graduate students groups to support wellness and underrepresented populations, such as [WiMSCE](https://wimsce.stanford.edu/our-officers), [SWIMM](https://swimm.stanford.edu/), [WINGS](https://humsci.stanford.edu/current-students/wings-wellness-information-network-graduate-students), and [El Centro](https://elcentro.stanford.edu/undergraduate/academic-programs/frosh-scholars-program),
+
+  * Was gratefully founded through the [Gerald J. Lieberman Fellowship](https://vpge.stanford.edu/fellowships-funding/gerald-j-lieberman-fellowship) - being one of twelve recipients of university-wide fellowship designed for future academic leaders - and the [SGF: Stanford Graduate Fellowship in Science & Engineering](https://vpge.stanford.edu/fellowships-funding/sgf).
+ 
+## (2018 - 2020) Volunteer at [Clubes de Ciencia Colombia](https://clubesdeciencia.co)
+
+Clubes de Ciencia Colombia (Science Clubs) is a group of young scientists with the goal of increasing scientific research
+awareness among the less favored Colombian Youth. I have thought two courses:
+
+ * Introduction to Reinforcement Learning, 2018 
+
+ * [Nuestro super poder: la información](https://www.youtube.com/watch?v=ANL20O8W8J0&list=PL-JZrJ1nBJZmskAsrwRXszSDfUakAjLJX)
+   , 2020. Online workshop combining data science and community leadership.
+
+## (2019) Data Science Intern at [Intuit](https://www.intuit.com)
+
+Intuit is a financial service company that offers solutions for consumers and small business. You may know them because 
+of TurboTax or Quickbooks. At Intuit, I worked on on language modeling and compression of cluster errors for 
+anomaly detection using linear algebra.
+
+## (2017) Research Associate Intern at [Hewlett Packard Laboratories](https://www.hpe.com/us/en/hewlett-packard-labs.html)
+
+Hewlett Packard Labs is the research branch of HPE working on next-generation computing solutions. At the labs, I worked on 
+a statistical analysis of HPC workloads for cluster simulation and performance evaluation.
+
+## (2013 - 2014) Master in Applied Mathematics and Computational Sciences at [KAUST](https://www.kaust.edu.sa)
+
+King Abdullah University of Science and Technology (KAUST) is a multicultural research institution in Thuwal, Saudi Arabia,
+ that provides graduate education for researchers around the world. I was very fortunate to be founded by a fellowhip provided to all students ([here](https://cemse.kaust.edu.sa/people/person/cindy-catherine-orozco-bohorquez) there is more on that story). At KAUST, I 
+
+* Worked with [Victor Calo](https://staffportal.curtin.edu.au/staff/profile/view/victor-calo-b640bb57/) on isogeometric analysis using B-splines and quadrature rules. 
+
+* Thought Spanish and directed the of culture and language exchange student group.
+
+## (2009 - 2013) Bachelors on Mathematics and Civil Engineering at [Uniandes](https://uniandes.edu.co/en)
+
+La Universidad de los Andes (Uniandes) in Bogotá, Colombia is one of the best undergraduate universities in Latin America. 
+I was fortunate to double major in Mathematics and Civil Engineering. At Uniandes, I
+
+* Worked with [Fernando Ramirez](https://scholar.google.com/citations?hl=en&user=7RE9nmMAAAAJ&view_op=list_works) on medical imaging segmentation to generate finite element representation of bones. Here is [my civil engineering dissertation](https://uniandes.primo.exlibrisgroup.com/permalink/57U_UDLA/80vkbu/alma991005380378207681)
+
+* Worked with [Adolfo Quiroz](https://scholar.google.com/citations?hl=en&user=qwMDh-4AAAAJ&view_op=list_works) on non-parametric multidimensional statistics using graph distances. Here is [my mathematics dissertation](https://uniandes.primo.exlibrisgroup.com/permalink/57U_UDLA/80vkbu/alma991005381601507681)
+
+* Received Summa Cum Laude degree given to top 1% graduates in engineering in the last five years. Also I was gratefully partially funded by Ramon de Zubiria and Alberto Magno Fellowships, for best department GPA and best national exam in Bogotá, respectively.
