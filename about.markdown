@@ -8,7 +8,7 @@ permalink: /about/
   Some text.
   </div>
   <div class="col-md-4" markdown="1">
-  <img height="600px" class="center-block" src="images/Cindy_pic.JPG">
+  <img height="50px" class="center-block" src="images/Cindy_pic.JPG">
   </div>
 </div>
 
