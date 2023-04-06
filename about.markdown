@@ -6,10 +6,13 @@ permalink:
 <table>
 <tr>
 <td>
-Some text.
+<img height="100px" class="center-block" src="images/Cindy_pic.JPG">
 </td>
 <td>
-<img height="50px" class="center-block" src="images/Cindy_pic.JPG">
+**Cindy Catherine Orozco Bohorquez**
+
+*email*: cindycorozco.at.gmail.dot.com
+From Bogotá, Colombia. Living in the Bay Area
 </td>
 </tr>
 </table>
@@ -21,7 +24,7 @@ knowing what a mathematician does to becoming a Ph.D. in computational and mathe
 as well as working in highly technical environments where fundamental challenges have been solved with 
 clear communication between all the stakeholders. Here is my journey:
 
-** (2021 - ) ML solutions engineer at [Cerebras Systems](https://www.cerebras.net) **
+**(2021 - ) ML solutions engineer at [Cerebras Systems](https://www.cerebras.net)**
 
 Cerebras is a AI-specialized Hardware and Software startup that is revolutionazing the Deep Learning
 landscape by making training large language models extremely easy with unique solutions. At Cerebras, I:
@@ -45,7 +48,7 @@ landscape by making training large language models extremely easy with unique so
 * Develop user journey, training materials, [multiple-day workshops](https://events.cels.anl.gov/event/333/), 
   and reformat documentation to include new product offerings and user-centric perspective.
 
-** (2018 - 2022) Volunteer at [Women in Data Science Conference (WIDS)](https://www.widsconference.org/) **
+**(2018 - 2022) Volunteer at [Women in Data Science Conference (WIDS)](https://www.widsconference.org/))**
 
 WIDS is a worldwide movement that started in 2015 at ICME, Stanford around showcasing the work of incredible women in data science. 
 At WIDS, I:
@@ -68,7 +71,7 @@ At WIDS, I:
 * Hosted a Spanish-speaking version of the WIDS podcast, featuring [Jessica Bohórquez](https://www.widsconference.org/jessica_bohorquez.html), [Lesly Zerna](https://www.widsconference.org/lesly-zerna.html), and [my own episode with the incredible Margot Gerritsen](https://www.widsconference.org/cindy-orozco.html)
 
 
-** (2015 - 2021) Ph.D. in Computational and Mathematical Engineering [ICME, Stanford University](https://icme.stanford.edu) **
+**(2015 - 2021) Ph.D. in Computational and Mathematical Engineering [ICME, Stanford University](https://icme.stanford.edu)**
 
 The Institute for Computational and Mathematical Engineering at Stanford is an interdisciplinary institute in the hear of the engineering school, 
 being the hub of applied mathematics, high performance computing and data science. At Stanford, I:
@@ -84,7 +87,7 @@ being the hub of applied mathematics, high performance computing and data scienc
 
   * Was gratefully founded through the [Gerald J. Lieberman Fellowship](https://vpge.stanford.edu/fellowships-funding/gerald-j-lieberman-fellowship) - being one of twelve recipients of university-wide fellowship designed for future academic leaders - and the [SGF: Stanford Graduate Fellowship in Science & Engineering](https://vpge.stanford.edu/fellowships-funding/sgf).
  
-** (2018 - 2020) Volunteer at [Clubes de Ciencia Colombia](https://clubesdeciencia.co) **
+**(2018 - 2020) Volunteer at [Clubes de Ciencia Colombia](https://clubesdeciencia.co)**
 
 Clubes de Ciencia Colombia (Science Clubs) is a group of young scientists with the goal of increasing scientific research
 awareness among the less favored Colombian Youth. I have thought two courses:
@@ -94,18 +97,18 @@ awareness among the less favored Colombian Youth. I have thought two courses:
  * [Nuestro super poder: la información](https://www.youtube.com/watch?v=ANL20O8W8J0&list=PL-JZrJ1nBJZmskAsrwRXszSDfUakAjLJX)
    , 2020. Online workshop combining data science and community leadership.
 
-** (2019) Data Science Intern at [Intuit](https://www.intuit.com) **
+**(2019) Data Science Intern at [Intuit](https://www.intuit.com)**
 
 Intuit is a financial service company that offers solutions for consumers and small business. You may know them because 
 of TurboTax or Quickbooks. At Intuit, I worked on on language modeling and compression of cluster errors for 
 anomaly detection using linear algebra.
 
-** (2017) Research Associate Intern at [Hewlett Packard Laboratories](https://www.hpe.com/us/en/hewlett-packard-labs.html) **
+**(2017) Research Associate Intern at [Hewlett Packard Laboratories](https://www.hpe.com/us/en/hewlett-packard-labs.html)**
 
 Hewlett Packard Labs is the research branch of HPE working on next-generation computing solutions. At the labs, I worked on 
 a statistical analysis of HPC workloads for cluster simulation and performance evaluation.
 
-** (2013 - 2014) Master in Applied Mathematics and Computational Sciences at [KAUST](https://www.kaust.edu.sa) **
+**(2013 - 2014) Master in Applied Mathematics and Computational Sciences at [KAUST](https://www.kaust.edu.sa)**
 
 King Abdullah University of Science and Technology (KAUST) is a multicultural research institution in Thuwal, Saudi Arabia,
  that provides graduate education for researchers around the world. I was very fortunate to be founded by a fellowhip provided to all students ([here](https://cemse.kaust.edu.sa/people/person/cindy-catherine-orozco-bohorquez) there is more on that story). At KAUST, I 
@@ -114,7 +117,7 @@ King Abdullah University of Science and Technology (KAUST) is a multicultural re
 
 * Thought Spanish and directed the of culture and language exchange student group.
 
-** (2009 - 2013) Bachelors on Mathematics and Civil Engineering at [Uniandes](https://uniandes.edu.co/en) **
+**(2009 - 2013) Bachelors on Mathematics and Civil Engineering at [Uniandes](https://uniandes.edu.co/en)**
 
 La Universidad de los Andes (Uniandes) in Bogotá, Colombia is one of the best undergraduate universities in Latin America. 
 I was fortunate to double major in Mathematics and Civil Engineering. At Uniandes, I
