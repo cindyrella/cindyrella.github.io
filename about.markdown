@@ -106,7 +106,7 @@ King Abdullah University of Science and Technology (KAUST) is a multicultural re
 
 * Thought Spanish and directed the of culture and language exchange student group.
 
-# (2009 - 2013) Bachelors on Mathematics and Civil Engineering at [Uniandes](https://uniandes.edu.co/en)
+## (2009 - 2013) Bachelors on Mathematics and Civil Engineering at [Uniandes](https://uniandes.edu.co/en)
 
 La Universidad de los Andes (Uniandes) in Bogotá, Colombia is one of the best undergraduate universities in Latin America. 
 I was fortunate to double major in Mathematics and Civil Engineering. At Uniandes, I
