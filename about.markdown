@@ -3,8 +3,14 @@ layout: page
 title: About Cindy C Orozco Bohorquez
 permalink: /about/
 ---
-
- ![Cindy_pic](images/Cindy_pic.JPG)
+<div class="row">
+  <div class="col-md-8" markdown="1">
+  Some text.
+  </div>
+  <div class="col-md-4" markdown="1">
+  <img height="600px" class="center-block" src="images/Cindy_pic.JPG">
+  </div>
+</div>
 
 I am a mathematician and engineer passionate about making complex topics accessible to a broad audience. 
 I have worked in numerical analysis, data science, numerical simulation, parallel computing, and machine 
