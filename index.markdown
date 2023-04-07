@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About 
+permalink: 
 ---
 <table>
 <tr>
@@ -10,7 +11,7 @@ title: About
 <td>
 <p><b>Cindy Catherine Orozco Bohorquez</b>
 <br><br></p>
-<p>email</i>: cindycorozco.at.gmail.dot.com</p>
+<p><i>email</i>: cindycorozco.at.gmail.dot.com</p>
 <p><i>linkedin</i>: <a href="https://www.linkedin.com/in/cindycorozco">cindycorozco</a></p>
 <p>From Bogotá, Colombia. Living in the Bay Area</p>
 </td>
@@ -27,7 +28,7 @@ clear communication between all the stakeholders. Here is my journey:
 **(2021 - ) ML solutions engineer at [Cerebras Systems](https://www.cerebras.net)**
 
 Cerebras is an AI-specialized Hardware and Software startup revolutionizing the Deep Learning
-landscape by simplifying the training of large language models with unique solutions. At Cerebras, I:
+landscape by simplifying the training of large language models with unique solutions ([here](https://medium.com/authority-magazine/the-future-is-now-cindy-orozco-bohorquez-of-cerebras-systems-on-how-their-technological-innovation-680cac8903ef) is more about my story). At Cerebras, I:
 
 * Mentor and manage the ml solutions team. This team has grown from two to five members and supports more than 15 active
   enterprise customers in energy, pharmaceutics, financial services, and national laboratories, among others,
@@ -45,7 +46,7 @@ landscape by simplifying the training of large language models with unique solut
 
 * Work with multiple stakeholders on engineering, customer, and executives, driving customer feedback and quickly adapting to a changing environment,
  
-* Develop user journey, training materials, [multiple-day workshops](https://events.cels.anl.gov/event/333/), 
+* Develop user journey, [introductory](https://www.youtube.com/watch?v=xgQ1aJ1DmlA) and [advanced](https://www.youtube.com/watch?v=8FV6LBBFb4g) training materials, [multiple-day workshops](https://events.cels.anl.gov/event/333/), 
   and reformat documentation to include new product offerings and user-centric perspective.
 
 **(2018 - 2022) Volunteer at [Women in Data Science Conference (WIDS)](https://www.widsconference.org/)**
@@ -61,7 +62,7 @@ At WIDS, I:
 
     * Combinando la Ciencia de Datos y la modelación numérica para entender el Alzheimer. WIDS Guayaquil 2020
 
-    * [La inteligencia artificial significa el fin de las matemáticas tradicionales ... No realmente] (https://www.youtube.com/watch?v=f4XwMmxjfz8) WIDS Medellin 2020
+    * [¿La inteligencia artificial significa el fin de las matemáticas tradicionales? ... No realmente](https://www.youtube.com/watch?v=f4XwMmxjfz8) WIDS Medellin 2020
 
     * Lunch Breakout: Introduction to Deep Learning. WiDS Stanford 2020  
 
