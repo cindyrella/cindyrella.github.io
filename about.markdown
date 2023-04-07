@@ -6,17 +6,14 @@ permalink:
 <table>
 <tr>
 <td>
-<img height="200px" class="center-block" src="images/Cindy_pic.png">
+<img height="200px" class="center-block" src="images/Cindy_pic_2.JPG">
 </td>
 <td>
-<b>Cindy Catherine Orozco Bohorquez</b>
-
-
-<i>email</i>: cindycorozco.at.gmail.dot.com
-
-<i>linkedin</i>: <a href="https://www.linkedin.com/in/cindycorozco">cindycorozco</a>
-
-From Bogotá, Colombia. Living in the Bay Area
+<p><b>Cindy Catherine Orozco Bohorquez</b>
+<br><br></p>
+<p>email</i>: cindycorozco.at.gmail.dot.com</p>
+<p><i>linkedin</i>: <a href="https://www.linkedin.com/in/cindycorozco">cindycorozco</a></p>
+<p>From Bogotá, Colombia. Living in the Bay Area</p>
 </td>
 </tr>
 </table>
@@ -52,7 +49,7 @@ landscape by simplifying the training of large language models with unique solut
 * Develop user journey, training materials, [multiple-day workshops](https://events.cels.anl.gov/event/333/), 
   and reformat documentation to include new product offerings and user-centric perspective.
 
-**(2018 - 2022) Volunteer at [Women in Data Science Conference (WIDS)](https://www.widsconference.org/))**
+**(2018 - 2022) Volunteer at [Women in Data Science Conference (WIDS)](https://www.widsconference.org/)**
 
 WIDS is a worldwide movement that started in 2015 at ICME, Stanford showcasing the work of incredible women in data science. 
 At WIDS, I:
@@ -65,7 +62,7 @@ At WIDS, I:
 
     * Combinando la Ciencia de Datos y la modelación numérica para entender el Alzheimer. WIDS Guayaquil 2020
 
-    * [¿La inteligencia artificial significa el fin de las matemáticas tradicionales? ... No realmente] (https://www.youtube.com/watch?v=f4XwMmxjfz8) WIDS Medellin 2020
+    * [La inteligencia artificial significa el fin de las matemáticas tradicionales ... No realmente] (https://www.youtube.com/watch?v=f4XwMmxjfz8) WIDS Medellin 2020
 
     * Lunch Breakout: Introduction to Deep Learning. WiDS Stanford 2020  
 
