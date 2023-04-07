@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About 
-permalink: 
+permalink: /about
 ---
 <table>
 <tr>
 <td>
-<img height="200px" class="center-block" src="images/Cindy_pic_2.JPG">
+<img height="200px" class="center-block" src="../images/Cindy_pic_2.JPG">
 </td>
 <td>
 <p><b>Cindy Catherine Orozco Bohorquez</b>
