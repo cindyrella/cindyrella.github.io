@@ -3,10 +3,22 @@ layout: page
 title: Cindy Catherine Orozco Bohorquez
 permalink: 
 ---
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+img {
+  width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
 <table>
 <tr>
 <td>
-<img height=200px width=200px class="center-block" src="images/Cindy_pic.jpg">
+<img height=200px class="center-block" src="images/Cindy_pic.jpg">
 </td>
 <td>
 <p><i>email</i>: cindycorozco.at.gmail.dot.com</p>
@@ -15,6 +27,8 @@ permalink:
 </td>
 </tr>
 </table>
+</body>
+</html>
 
 I am a mathematician and engineer passionate about making complex topics accessible to a broad audience. 
 I have worked in numerical analysis, data science, numerical simulation, parallel computing, and machine 
