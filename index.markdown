@@ -28,7 +28,7 @@ clear communication between all the stakeholders. Here is my journey:
 **(2021 - ) ML solutions engineer at [Cerebras Systems](https://www.cerebras.net)**
 
 Cerebras is an AI-specialized Hardware and Software startup revolutionizing the Deep Learning
-landscape by simplifying the training of large language models with unique solutions. At Cerebras, I:
+landscape by simplifying the training of large language models with unique solutions ([here](https://medium.com/authority-magazine/the-future-is-now-cindy-orozco-bohorquez-of-cerebras-systems-on-how-their-technological-innovation-680cac8903ef) is more about my story). At Cerebras, I:
 
 * Mentor and manage the ml solutions team. This team has grown from two to five members and supports more than 15 active
   enterprise customers in energy, pharmaceutics, financial services, and national laboratories, among others,
@@ -62,7 +62,7 @@ At WIDS, I:
 
     * Combinando la Ciencia de Datos y la modelación numérica para entender el Alzheimer. WIDS Guayaquil 2020
 
-    * [La inteligencia artificial significa el fin de las matemáticas tradicionales ... No realmente] (https://www.youtube.com/watch?v=f4XwMmxjfz8) WIDS Medellin 2020
+    * [¿La inteligencia artificial significa el fin de las matemáticas tradicionales? ... No realmente](https://www.youtube.com/watch?v=f4XwMmxjfz8) WIDS Medellin 2020
 
     * Lunch Breakout: Introduction to Deep Learning. WiDS Stanford 2020  
 
