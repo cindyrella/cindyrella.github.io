@@ -61,7 +61,7 @@ landscape by simplifying the training of large language models with unique solut
 * Develop user journey, [introductory](https://www.youtube.com/watch?v=xgQ1aJ1DmlA) and [advanced](https://www.youtube.com/watch?v=8FV6LBBFb4g) training materials, [multiple-day workshops](https://events.cels.anl.gov/event/333/), 
   and reformat documentation to include new product offerings and user-centric perspective.
 
-**(2018 - 2022) Volunteer at [Women in Data Science Conference (WIDS)](https://www.widsconference.org/)**
+**(2018 - 2022) Volunteer at the [Women in Data Science Conference (WIDS)](https://www.widsconference.org/)**
 
 WIDS is a worldwide movement that started in 2015 at ICME, Stanford showcasing the work of incredible women in data science. 
 At WIDS, I:
@@ -78,7 +78,7 @@ At WIDS, I:
 
     * Lunch Breakout: Introduction to Deep Learning. WiDS Stanford 2020  
 
-* Thought an introductory [parallel computing workshop](https://www.widsconference.org/cindyorozcobohorquezworkshopinstructor.html)
+* Taught an introductory [parallel computing workshop](https://www.widsconference.org/cindyorozcobohorquezworkshopinstructor.html)
 
 * Hosted a Spanish-speaking version of the WIDS podcast featuring [Jessica Bohórquez](https://www.widsconference.org/jessica_bohorquez.html), [Lesly Zerna](https://www.widsconference.org/lesly-zerna.html), and [my own episode with the incredible Margot Gerritsen](https://www.widsconference.org/cindy-orozco.html)
 
@@ -95,21 +95,21 @@ It is the hub of applied mathematics, high-performance computing, and data scien
 
   * Taught over 200 students [machine learning](notes.markdown#introduction-to-machine-learning), [parallel computing](notes.markdown#introduction-to-high-performance-computing), [linear algebra](material/Intro_LA.pdf), and [numerical analysis](Intro_Scientific_Computing.pdf), also translated [stats teaching materials](https://seeing-theory.brown.edu/es.html#firstPage) to Spanish.
 
-  * Participated as co-founder, officer, and mentor on engineering graduate students groups to support wellness and underrepresented populations, such as [WiMSCE](https://wimsce.stanford.edu/our-officers), [SWIMM](https://swimm.stanford.edu/), [WINGS](https://humsci.stanford.edu/current-students/wings-wellness-information-network-graduate-students), and [El Centro](https://elcentro.stanford.edu/undergraduate/academic-programs/frosh-scholars-program),
+  * Participated as co-founder, officer, and mentor in engineering graduate students groups to support wellness and underrepresented populations, such as [WiMSCE](https://wimsce.stanford.edu/our-officers), [SWIMM](https://swimm.stanford.edu/), [WINGS](https://humsci.stanford.edu/current-students/wings-wellness-information-network-graduate-students), and [El Centro](https://elcentro.stanford.edu/undergraduate/academic-programs/frosh-scholars-program),
 
   * Was gratefully founded through the [Gerald J. Lieberman Fellowship](https://vpge.stanford.edu/fellowships-funding/gerald-j-lieberman-fellowship) - being one of twelve recipients of a university-wide fellowship designed for future academic leaders - and the [SGF: Stanford Graduate Fellowship in Science & Engineering](https://vpge.stanford.edu/fellowships-funding/sgf).
  
 **(2018, 2020) Volunteer at [Clubes de Ciencia Colombia](https://clubesdeciencia.co)**
 
 Clubes de Ciencia Colombia (Science Clubs) is a group of young scientists to increase scientific research
-awareness among the less favored Colombian Youth. I have thaught two courses:
+awareness among the less favored Colombian Youth. I have taught two courses:
 
  * [Introduction to Reinforcement Learning](https://colab.research.google.com/drive/1_AOWDJ9RqSYoa7pc_WppQ-EFO77Qk5yB#scrollTo=2DOyI6wm3C_g), 2018. Here is [my students' demo](https://colab.research.google.com/drive/1gK90n7KJF2_cvoaOuTbEL1NmgGwVODCE#scrollTo=TflxhKcn8LI4).
 
  * [Nuestro super poder: la información](https://www.youtube.com/watch?v=ANL20O8W8J0&list=PL-JZrJ1nBJZmskAsrwRXszSDfUakAjLJX)
    , 2020, an online workshop that combined data science and community leadership.
 
-In 2016, I visited my former school in Bogotá, [Colegio del Rosario de Santo Domingo](https://rosariosantodomingo.edu.co) and shared [my journey](material/CharlaRSD.pdf). Also I visited Los Altos High School to talk about [research in applied math](material/LosAltos_2016F.pdf).
+In 2016, I visited my former school in Bogotá, [Colegio del Rosario de Santo Domingo](https://rosariosantodomingo.edu.co), and shared [my journey](material/CharlaRSD.pdf). Also, I visited Los Altos High School to talk about [research in applied math](material/LosAltos_2016F.pdf).
 
 **(2019) Data Science Intern at [Intuit](https://www.intuit.com)**
 
@@ -125,7 +125,7 @@ a statistical analysis of HPC workloads for cluster simulation and performance e
 **(2013 - 2014) Master in Applied Mathematics and Computational Sciences at [KAUST](https://www.kaust.edu.sa)**
 
 King Abdullah University of Science and Technology (KAUST) is a multicultural research institution in Thuwal, Saudi Arabia,
- that provides graduate education for researchers worldwide. I was fortunate to be founded by a felloswhip provided to all students ([here](https://cemse.kaust.edu.sa/people/person/cindy-catherine-orozco-bohorquez) is more on that story). At KAUST, I 
+ that provides graduate education for researchers worldwide. I was fortunate to be founded by a fellowship provided to all students ([here](https://cemse.kaust.edu.sa/people/person/cindy-catherine-orozco-bohorquez) is more on that story). At KAUST, I 
 
 * Worked with [Victor Calo](https://staffportal.curtin.edu.au/staff/profile/view/victor-calo-b640bb57/) on isogeometric analysis using B-splines and quadrature rules. 
 
@@ -136,8 +136,8 @@ King Abdullah University of Science and Technology (KAUST) is a multicultural re
 La Universidad de los Andes (Uniandes) in Bogotá, Colombia, is one of the best universities in Latin America. 
 I was fortunate to double major in Mathematics and Civil Engineering. At Uniandes, I
 
-* Worked with [Fernando Ramirez](https://scholar.google.com/citations?hl=en&user=7RE9nmMAAAAJ&view_op=list_works) on medical imaging segmentation to generate finite element representation of bones. Here is [my civil engineering dissertation](https://uniandes.primo.exlibrisgroup.com/permalink/57U_UDLA/80vkbu/alma991005380378207681)
+* Worked with [Fernando Ramirez](https://scholar.google.com/citations?hl=en&user=7RE9nmMAAAAJ&view_op=list_works) on medical imaging segmentation to generate finite element representations of bones. Here is [my civil engineering dissertation](https://uniandes.primo.exlibrisgroup.com/permalink/57U_UDLA/80vkbu/alma991005380378207681)
 
 * Worked with [Adolfo Quiroz](https://scholar.google.com/citations?hl=en&user=qwMDh-4AAAAJ&view_op=list_works) on non-parametric multidimensional statistics using graph distances. Here is [my mathematics dissertation](https://uniandes.primo.exlibrisgroup.com/permalink/57U_UDLA/80vkbu/alma991005381601507681)
 
-* Received Summa Cum Laude degree given to the top 1% of graduates in engineering in the last five years. Also, I was gratefully partially funded by Ramon de Zubiria and Alberto Magno fellowships for best department GPA and best national exam in Bogotá, respectively.
+* Received a Summa Cum Laude degree given to the top 1% of graduates in engineering in the last five years. Also, I was gratefully partially funded by Ramon de Zubiria and Alberto Magno fellowships for best department GPA and best national exam in Bogotá, respectively.
