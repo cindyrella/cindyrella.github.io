@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 
+title: Cindy Catherine Orozco Bohorquez
 permalink: 
 ---
 <table>
@@ -9,7 +9,6 @@ permalink:
 <img height="200px" class="center-block" src="../images/Cindy_pic_2.JPG">
 </td>
 <td>
-<p><b>Cindy Catherine Orozco Bohorquez</b>
 <br><br></p>
 <p><i>email</i>: cindycorozco.at.gmail.dot.com</p>
 <p><i>linkedin</i>: <a href="https://www.linkedin.com/in/cindycorozco">cindycorozco</a></p>
