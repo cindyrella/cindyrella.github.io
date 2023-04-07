@@ -9,7 +9,6 @@ permalink:
 <img height="200px" class="center-block" src="../images/Cindy_pic.jpg">
 </td>
 <td>
-<br><br></p>
 <p><i>email</i>: cindycorozco.at.gmail.dot.com</p>
 <p><i>linkedin</i>: <a href="https://www.linkedin.com/in/cindycorozco">cindycorozco</a></p>
 <p>From Bogotá, Colombia. Living in the Bay Area</p>
