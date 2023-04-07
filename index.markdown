@@ -93,21 +93,23 @@ It is the hub of applied mathematics, high-performance computing, and data scien
     networks, and [physics-based neural networks for inverse problems based on wavelets](https://www.sciencedirect.com/science/article/pii/S0021999119300762). 
     Here is [my Ph.D. dissertation](https://purl.stanford.edu/qn148ph7611)
 
-  * Taught over 200 students machine learning, parallel computing, and numerical analysis, also translated [stats teaching materials](https://seeing-theory.brown.edu/es.html#firstPage) to Spanish.
+  * Taught over 200 students [machine learning](notes.markdown), [parallel computing](notes.markdown), [linear algebra](material/Intro_LA.pdf) and [numerical analysis](Intro_Scientific_Computing.pdf), also translated [stats teaching materials](https://seeing-theory.brown.edu/es.html#firstPage) to Spanish.
 
   * Participated as co-founder, officer, and mentor on engineering graduate students groups to support wellness and underrepresented populations, such as [WiMSCE](https://wimsce.stanford.edu/our-officers), [SWIMM](https://swimm.stanford.edu/), [WINGS](https://humsci.stanford.edu/current-students/wings-wellness-information-network-graduate-students), and [El Centro](https://elcentro.stanford.edu/undergraduate/academic-programs/frosh-scholars-program),
 
   * Was gratefully founded through the [Gerald J. Lieberman Fellowship](https://vpge.stanford.edu/fellowships-funding/gerald-j-lieberman-fellowship) - being one of twelve recipients of a university-wide fellowship designed for future academic leaders - and the [SGF: Stanford Graduate Fellowship in Science & Engineering](https://vpge.stanford.edu/fellowships-funding/sgf).
  
-**(2018 - 2020) Volunteer at [Clubes de Ciencia Colombia](https://clubesdeciencia.co)**
+**(2018, 2020) Volunteer at [Clubes de Ciencia Colombia](https://clubesdeciencia.co)**
 
 Clubes de Ciencia Colombia (Science Clubs) is a group of young scientists to increase scientific research
 awareness among the less favored Colombian Youth. I have thaught two courses:
 
- * Introduction to Reinforcement Learning, 2018 
+ * [Introduction to Reinforcement Learning](https://colab.research.google.com/drive/1_AOWDJ9RqSYoa7pc_WppQ-EFO77Qk5yB#scrollTo=2DOyI6wm3C_g), 2018. Here is [my students' demo](https://colab.research.google.com/drive/1gK90n7KJF2_cvoaOuTbEL1NmgGwVODCE#scrollTo=TflxhKcn8LI4).
 
  * [Nuestro super poder: la información](https://www.youtube.com/watch?v=ANL20O8W8J0&list=PL-JZrJ1nBJZmskAsrwRXszSDfUakAjLJX)
    , 2020, an online workshop that combined data science and community leadership.
+
+In 2016, I visited my former school in Bogotá, [Colegio del Rosario de Santo Domingo](https://rosariosantodomingo.edu.co) and shared [my journey](material/CharlaRSD.pdf). Also I visited Los Altos High School to talk about [research in applied math](material/LosAltos_2016F.pdf).
 
 **(2019) Data Science Intern at [Intuit](https://www.intuit.com)**
 
