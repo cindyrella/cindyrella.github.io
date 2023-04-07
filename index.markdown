@@ -6,7 +6,7 @@ permalink:
 <table>
 <tr>
 <td>
-<img height="200px" class="center-block" src="../images/Cindy_pic.jpg">
+<img height="200px" class="center-block" src="images/Cindy_pic.jpg">
 </td>
 <td>
 <p><i>email</i>: cindycorozco.at.gmail.dot.com</p>
