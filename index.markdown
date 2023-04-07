@@ -93,7 +93,7 @@ It is the hub of applied mathematics, high-performance computing, and data scien
     networks, and [physics-based neural networks for inverse problems based on wavelets](https://www.sciencedirect.com/science/article/pii/S0021999119300762). 
     Here is [my Ph.D. dissertation](https://purl.stanford.edu/qn148ph7611)
 
-  * Taught over 200 students [machine learning](notes.markdown), [parallel computing](notes.markdown), [linear algebra](material/Intro_LA.pdf) and [numerical analysis](Intro_Scientific_Computing.pdf), also translated [stats teaching materials](https://seeing-theory.brown.edu/es.html#firstPage) to Spanish.
+  * Taught over 200 students [machine learning](notes.markdown#introduction-to-machine-learning), [parallel computing](notes.markdown#introduction-to-high-performance-computing), [linear algebra](material/Intro_LA.pdf), and [numerical analysis](Intro_Scientific_Computing.pdf), also translated [stats teaching materials](https://seeing-theory.brown.edu/es.html#firstPage) to Spanish.
 
   * Participated as co-founder, officer, and mentor on engineering graduate students groups to support wellness and underrepresented populations, such as [WiMSCE](https://wimsce.stanford.edu/our-officers), [SWIMM](https://swimm.stanford.edu/), [WINGS](https://humsci.stanford.edu/current-students/wings-wellness-information-network-graduate-students), and [El Centro](https://elcentro.stanford.edu/undergraduate/academic-programs/frosh-scholars-program),
 

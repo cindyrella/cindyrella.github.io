@@ -4,9 +4,7 @@ title: Lecture Notes
 permalink: 
 ---
 
-# Extended Lecture Notes
-
-For the lecture notes on my other courses, you can find them in the link in the main page.
+For the lecture notes on my other courses, you can find them in the course link on the main page.
 
 ## Introduction to High Performance Computing
 
