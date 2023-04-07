@@ -6,7 +6,7 @@ permalink:
 <table>
 <tr>
 <td>
-<img height="200px" class="center-block" src="../images/Cindy_pic_2.JPG">
+<img height="200px" class="center-block" src="../images/Cindy_pic.jpg">
 </td>
 <td>
 <br><br></p>
