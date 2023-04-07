@@ -11,7 +11,7 @@ permalink:
 <td>
 <p><b>Cindy Catherine Orozco Bohorquez</b>
 <br><br></p>
-<p>email</i>: cindycorozco.at.gmail.dot.com</p>
+<p><i>email</i>: cindycorozco.at.gmail.dot.com</p>
 <p><i>linkedin</i>: <a href="https://www.linkedin.com/in/cindycorozco">cindycorozco</a></p>
 <p>From Bogotá, Colombia. Living in the Bay Area</p>
 </td>
@@ -46,7 +46,7 @@ landscape by simplifying the training of large language models with unique solut
 
 * Work with multiple stakeholders on engineering, customer, and executives, driving customer feedback and quickly adapting to a changing environment,
  
-* Develop user journey, training materials, [multiple-day workshops](https://events.cels.anl.gov/event/333/), 
+* Develop user journey, [introductory](https://www.youtube.com/watch?v=xgQ1aJ1DmlA) and [advanced](https://www.youtube.com/watch?v=8FV6LBBFb4g) training materials, [multiple-day workshops](https://events.cels.anl.gov/event/333/), 
   and reformat documentation to include new product offerings and user-centric perspective.
 
 **(2018 - 2022) Volunteer at [Women in Data Science Conference (WIDS)](https://www.widsconference.org/)**
